@@ -1,0 +1,14 @@
+```{r}
+title: "Avery Peck's Blog Posts" 
+author: "Avery Peck"
+date: '2023-22-March'
+categories: [aboutme]
+image: "image.png"
+format: 
+  html:
+    code-fold: true
+```
+```{r}
+My name is Avery Peck. I am a current sophomore at the University of Nebraska- Lincoln. I am majoring in Sports Broadcasting, hoping to become a sideline reporter in the near future.
+```
+
